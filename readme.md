@@ -6,4 +6,4 @@ O objetivo deste desafio foi transformar o HTML/DOM de acordo com os requisitos 
 
 ## Execução do projeto
 
-Abra o arquivo index.html em um navegador para visualizar as alterações feitas pelo JavaScript no DOM.
+Abra o arquivo `index.html` em um navegador para visualizar as alterações feitas pelo JavaScript no DOM.
