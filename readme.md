@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-O objetivo deste desafio foi transformar o HTML/DOM de acordo com os requisitos especificados nos prints do roteiro de teste. O código responsável por essa transformação está localizado no arquivo `/js/main.js`.
+O objetivo deste desafio foi transformar o HTML/DOM de acordo com os requisitos especificados nos prints do roteiro de teste. O código responsável por essa transformação está localizado no arquivo `/js/main.js` [link para do arquivo](https://github.com/gustavo-evaristo/wefit-js-challenge/blob/main/js/main.js).
 
 ## Execução do projeto
 
