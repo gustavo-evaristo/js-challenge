@@ -14,12 +14,21 @@ const cards = document.querySelectorAll(".card");
 
 const cardsOrder = ["Natureza", "Animais", "Pessoas", "Tecnologia"];
 
+const cardsImages = [
+  "https://picsum.photos/300/180",
+  "https://picsum.photos/id/237/300/180",
+  "https://picsum.photos/id/129/300/180",
+  "https://picsum.photos/id/180/300/180",
+];
+
 cardsOrder.map((name, index) => {
   const currentCard = cards[index];
 
   const cardTitle = currentCard.querySelector(".card-title");
-
   cardTitle.textContent = name;
+
+  const cardImage = currentCard.querySelector("img");
+  cardImage.src = cardsImages[index];
 
   if (name === "Animais") {
     const cardButton = currentCard.querySelector(".btn-primary");
