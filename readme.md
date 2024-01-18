@@ -9,3 +9,7 @@ O objetivo deste desafio foi transformar o HTML/DOM de acordo com os requisitos 
 #### O site está disponivel no link [https://gustavo-evaristo.github.io/wefit-js-challenge/](https://gustavo-evaristo.github.io/wefit-js-challenge/)
 
 Ou abra o arquivo `index.html` em um navegador para visualizar as alterações feitas pelo JavaScript no DOM.
+
+## Observações
+
+O site [placeimg.com](placeimg.com) que disponibiliza as imagens não está mais disponível. Sendo assim, alterei as imagens de cada card com javascript também.
