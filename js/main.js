@@ -15,7 +15,7 @@ const cards = document.querySelectorAll(".card");
 const cardsOrder = ["Natureza", "Animais", "Pessoas", "Tecnologia"];
 
 const cardsImages = [
-  "https://picsum.photos/300/180",
+  "https://picsum.photos/id/166/300/180",
   "https://picsum.photos/id/237/300/180",
   "https://picsum.photos/id/129/300/180",
   "https://picsum.photos/id/180/300/180",
